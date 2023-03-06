@@ -1,5 +1,9 @@
 # k8s_learning
 
+Nghĩa rcm học cái này:
+
+https://kubernetes.io/docs/tutorials/kubernetes-basics/
+
 ## Overview k8s: https://kubernetes.io/docs/concepts/overview/components/
 
 - k8s cluster
